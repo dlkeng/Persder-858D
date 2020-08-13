@@ -9,7 +9,6 @@ potientiometer is not accessible via the front panel.
 The microcontroller (MCU) used in the Persder-858D has no markings but is a 20-pin DIP device
 (in a socket) that appears to be connected the same as the MK1841D3 MCU used in the Baku 8585D.
 
-
 * [Reverse-engineered schematics](Persder-858D_Schematic.pdf)
 * [Parts List](Parts.txt)
 
