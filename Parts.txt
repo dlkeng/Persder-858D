@@ -1,0 +1,84 @@
+Persder-858D SMD Hot Air Rework Station
+=======================================
+SENV0858D+ PCB
+--------------
+
+C1    0.1 uF 275V
+C2    220 uF 50V
+C6    0.1 uF
+C7    22 uF 50V
+C8    0.1 uF
+C10   220 uF 16V
+C12   220 uF 16V
+C15   0.1 uF
+C21   0.1 uF 600V
+C22   10 uF 50V
+C23   100 uF 16V
+C24   0.1 uF
+C25   470 uF 16V
+C26   0.1 uF
+C30   0.1 uF
+C31   0.1 uF
+C32   0.1 uF
+C33   0.1 uF
+
+
+D7    DB107 Bridge
+D8    DB107 Bridge
+
+
+DIS1  YX310401K 3x7-Segment LED Display
+
+
+J1    1x2   HOT/HOT
+J2    1x4   25V/9V
+J4    8-pin wand plug
+J7    1x2   AC/AC
+
+Q1    TIP122
+Q3    431
+Q4    BTA08/BTA16-600B
+Q5    J3Y NPN
+
+
+R1    B100K pot (FAN SPEED)
+R2    47K
+R10   5.1K 1W
+R13   10K
+R14   51 ohms
+R15   51 ohms
+R16   51 ohms
+R17   10K
+R18   6.8K
+R19   10K
+R20   10K
+R21   10K
+R22   200 ohms
+R26   330 ohms
+R27   330 ohms
+R29   100 ohms 1W
+R31   1M
+R32   200 ohms
+R33   500 ohms pot
+R34   270 ohms
+R35   680 ohms
+R36   100K
+R37   220 ohms
+R38   220 ohms
+R39   75K
+R40   10K
+
+SW1   Power Switch
+S5    UP
+S6    DOWN
+
+
+T1    120 VAC -> 25 VAC & 9 VAC
+
+
+U2    MCU ??? (MK1840D3/MK1841D3/S3F94C4 ???)
+U3    LM7805
+U4    IMLH920  Z8H2605A   24C02 EEPROM
+U5    MOC3061
+U7    LM358P
+
